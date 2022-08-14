@@ -20,6 +20,6 @@
 * Поиск объекта в базе данных его вывод.</br>
 ---
 
-[main window](D:\Prog\Java\salon\src\main\resources\pictures\main.jpg)
-![employee window](D:\Prog\Java\salon\src\main\resources\pictures\employee.jpg)
-![salon window](D:\Prog\Java\salon\src\main\resources\pictures\salon.jpg)
+![main window]([D:\Prog\Java\salon\src\main\resources\pictures\main.jpg](https://github.com/17Ros01/Salon-notebook/blob/main/salon/src/main/resources/pictures/main.jpg))
+![employee window]([D:\Prog\Java\salon\src\main\resources\pictures\employee.jpg](https://github.com/17Ros01/Salon-notebook/blob/main/salon/src/main/resources/pictures/employee.jpg))
+![salon window]([D:\Prog\Java\salon\src\main\resources\pictures\salon.jpg](https://github.com/17Ros01/Salon-notebook/blob/main/salon/src/main/resources/pictures/salon.jpg))
